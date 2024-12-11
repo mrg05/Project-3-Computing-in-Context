@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+
+chapters:
+  - file: mrg2265_Project_1
+    title: Project 1
+  - file: mrg2265_Project2
+    title: Project 2
+  - file: mrg2265_Project3
+    title: Project 3
